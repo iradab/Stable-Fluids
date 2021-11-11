@@ -1,12 +1,12 @@
 # Stable Fluids
 
-This project was a final project for INF574 - Digital Representations and Analysis of Shapes (2020-2021) course at Ecole Polytechnique de Paris. This project is implementation of the paper by Jos Stam [Stable Fluids](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/ns.pdf).
+This project was a final project for INF574 - Digital Representations and Analysis of Shapes (2020-2021) course at Ecole Polytechnique de Paris. This project is implementation of the paper by Jos Stam - [Stable Fluids](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/ns.pdf).
 
 The details of implementation are described in the [report](https://github.com/iradab/Stable-Fluids/blob/main/Final_Report.pdf). 
 
 ## Results
 
-In our program, the user is able to introduce the fluids and provide the velocity(direction and value) through
+In our program, the user is able to introduce the fluids and provide the velocity(direction and value) of the fluid through
 mouse interaction (by clicking and dragging the mouse). The values of dissipation rate, diffusion constant, 
 viscosity can be changed by user for creating different types of fluid.
 
