@@ -6,15 +6,17 @@ The details of our implementation are described in the [report](https://github.c
 
 ## Results
 
-In our program, the user is able to introduce the fluids and provide the velocity (fluid's direction and value) through
-mouse interaction (by clicking and dragging the mouse). After the fluids are introduced by the user, the simulation of the fluid is observed. 
+In our program, the user is able to introduce the fluids and provide their velocity (fluid's direction and value) through
+mouse interaction (by clicking and dragging the mouse). After fluids are introduced by the user, the simulation of the fluid is observed. 
 The values of dissipation rate, diffusion constant, 
-viscosity can be changed by user for creating different types of fluid.
+viscosity can be changed by user in order to create different types of fluid.
 
 In this image different values for viscosity were chosen(0, 10, 100), which results in simulation of different fluids:
 
 
 ![alt text](https://github.com/iradab/Stable-Fluids/blob/main/viscosity%20test.png)
+
+
 
 It is also possible to introduce several fluids and see their interaction after some time:
 
