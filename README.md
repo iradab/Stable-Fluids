@@ -11,9 +11,13 @@ mouse interaction (by clicking and dragging the mouse) to see the simulation of 
 viscosity can be changed by user for creating different types of fluid.
 
 In this image different values for viscosity were chosen(0, 10, 100), which results in different fluid's simulations:
+
+
 ![alt text](https://github.com/iradab/Stable-Fluids/blob/main/viscosity%20test.png)
 
 It is also possible to introduce several fluids and see their interaction after some time:
+
+
 ![alt text](https://github.com/iradab/Stable-Fluids/blob/main/several%20fluids.png)
 
 
