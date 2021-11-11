@@ -17,9 +17,7 @@ In this image different values for viscosity were chosen(0, 10, 100), which resu
 
 It is also possible to introduce several fluids and see their interaction after some time:
 
-<img src="several fluids.png" width="500">
-
-![alt text](https://github.com/iradab/Stable-Fluids/blob/main/several%20fluids.png)
+<img src="several_fluids.png" width="300">
 
 
 ## Authors
