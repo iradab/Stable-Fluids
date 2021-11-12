@@ -1,6 +1,6 @@
 # Stable Fluids
 
-This project was a final project for INF574 - Digital Representations and Analysis of Shapes (2020-2021) course at Ecole Polytechnique de Paris. This project is implementation of the paper by Jos Stam - [Stable Fluids](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/ns.pdf). 
+This project was a final project for INF574 - Digital Representations and Analysis of Shapes (2020-2021) course at Ecole Polytechnique de Paris. This project is implementation of the paper by Jos Stam - [Stable Fluids](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/ns.pdf) - for simulating the fluids. 
 
 The details of our implementation are described in the [report](https://github.com/iradab/Stable-Fluids/blob/main/Final_Report.pdf). 
 
